@@ -1,0 +1,294 @@
+menu_title: '&#b90000Menü &#ff00ff⇴ &#ff0099Genel Menü'
+open_command:
+- menu
+- menü
+- yardım
+- bilgi
+- help
+size: 45
+items:
+  sunucuhk:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg4M2Q2NTZlNDljMzhjNmI1Mzc4NTcyZjMxYzYzYzRjN2E1ZGQ0Mzc1YjZlY2JjYTQzZjU5NzFjMmNjNGZmIn19fQ==
+    slot: 0
+    display_name: '&x&e&8&e&8&5&0Sunucu Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz zorluk seviyesi olarak'
+    - '&x&e&8&e&8&5&0orta &x&f&3&f&3&a&0olarak hazırlanmıştır.'
+    - '&x&f&3&f&3&a&0Sistemlerimiz hakkında bilgiler'
+    - '&x&f&3&f&3&a&0menülerde detaylı olarak anlatılmıştır.'
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz uzun vadeli, sizlerin emeklerinin'
+    - '&x&f&3&f&3&a&0çöpe atılmadığı ve adaletli bir sunucudur. Sunucumuza'
+    - '&x&f&3&f&3&a&0destek olmak ve aynı zamanda bu desteğinize'
+    - '&x&f&3&f&3&a&0karşılık olarak &x&e&8&e&8&5&0VIP&x&f&3&f&3&a&0, &x&e&8&e&8&5&0anahtar&x&f&3&f&3&a&0, &x&e&8&e&8&5&0doğurucu &x&f&3&f&3&a&0tarzında ürünler'
+    - '&x&f&3&f&3&a&0almak için sitemizi ziyaret edebilirsin.'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0www.reverse-network.com &8(&x&e&8&e&8&5&0/site&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] site'
+    right_click_commands:
+    - '[close]'
+    - '[player] site'
+  discord:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3M2MxMmJmZmI1MjUxYTBiODhkNWFlNzVjNzI0N2NiMzlhNzVmZjFhODFjYmU0YzhhMzliMzExZGRlZGEifX19
+    slot: 18
+    display_name: '&x&e&8&e&8&5&0Discord Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Discord sunucumuza katılarak güncellemelerden ve'
+    - '&x&f&3&f&3&a&0duyurulardan &x&e&8&e&8&5&0ilk sen haberdar olabilir&x&f&3&f&3&a&0, arkadaş'
+    - '&x&f&3&f&3&a&0edinip &x&e&8&e&8&5&0eğlenebilir&x&f&3&f&3&a&0, sohbet ederek &x&e&8&e&8&5&0ödül &x&f&3&f&3&a&0kazanabilir,'
+    - '&x&f&3&f&3&a&0hatta çekilişlerden &x&e&8&e&8&5&0VIP &x&f&3&f&3&a&0ve fazlasını kazanabilirsin!'
+    - ''
+    - '&x&f&3&f&3&a&0Aynı zamanda Discord sunucumuz ile oyun hesabını da'
+    - '&x&f&3&f&3&a&0Eşleyerek &x&e&8&e&8&5&0özel rol &x&f&3&f&3&a&0ve &x&e&8&e&8&5&0özel eşyalar &x&f&3&f&3&a&0kazanabilirsin!'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0discord.gg/sxGybJHPWx &8(&x&e&8&e&8&5&0/discord&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] discord'
+    right_click_commands:
+    - '[close]'
+    - '[player] discord'
+  profil:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxYWUwNWM5MjY3MTI2MWJhZjgyOThjZThkYmJlYjVhMWYxZThkNzFhOTc2N2UyNTFmYmM2NTVhMTFlYWMifX19
+    slot: 36
+    display_name: '&x&e&8&e&8&5&0Profil'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Hakkındaki tüm bilgileri ve'
+    - '&x&f&3&f&3&a&0istatistiklerinizi görebilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] profil'
+    right_click_commands:
+    - '[player] profil'
+  'engel1':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 1
+    - 10
+    - 19
+    - 28
+    - 37
+  ışınlanma:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYxMzEyOWI4MjRjNGQ3YjYzMDM0YTFlZjA3NTVmNzgxODM1MzFkYWI1NDA2MmIzNGIyMjRmNGY4NTE4ZjJhZiJ9fX0=
+    slot: 12
+    display_name: '&x&e&8&e&8&5&0Işınlanma'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Gidebileceğiniz tüm bölgeleri'
+    - '&x&f&3&f&3&a&0görebilir ve tek tuşla'
+    - '&x&f&3&f&3&a&0ışınlanabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] warp2'
+    right_click_commands:
+    - '[openguimenu] warp2'
+  ışınlasdfanma:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYxMzEyOWI4MjRjNGQ3YjYzMDM0YTFlZjA3NTVmNzgxODM1MzFkYWI1NDA2MmIzNGIyMjRmNGY4NTE4ZjJhZiJ9fX0=
+    slot: 34
+    display_name: '&x&e&8&e&8&5&0Oyuncu Warpları'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Diğer oyuncuların her'
+    - '&x&f&3&f&3&a&0türde warplarını keşfedebilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] pw'
+    right_click_commands:
+    - '[player] pw'
+  ışınlanmamama:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYxMzEyOWI4MjRjNGQ3YjYzMDM0YTFlZjA3NTVmNzgxODM1MzFkYWI1NDA2MmIzNGIyMjRmNGY4NTE4ZjJhZiJ9fX0=
+    slot: 33
+    display_name: '&x&e&8&e&8&5&0Meslekler'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Bir mesleğe girebilir'
+    - '&x&f&3&f&3&a&0ve kolay yoldan'
+    - '&x&f&3&f&3&a&0para kazanabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] meslek'
+    right_click_commands:
+    - '[openguimenu] meslek'
+  kitler:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ4NjdkOTBlZWU1ZTczY2U2MzJhZTY2NjMwZTkyMWQxZmVjOTRlZjFiMzIzZjI4ZjM5YTk4NmZiYmI4NjhiZSJ9fX0=
+    slot: 13
+    display_name: '&x&e&8&e&8&5&0Kitler'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Tüm kitleri görebilir'
+    - '&x&f&3&f&3&a&0ve size uygun olanları'
+    - '&x&f&3&f&3&a&0alabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] kit'
+    right_click_commands:
+    - '[openguimenu] kit'
+  rütbeler:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkwZDNjNTIyY2U1MzNiNjU5NzU1NmMwNmQ4MGFlYmViMjY0MGVlMGQxYmY4YzQ5ODc0MGE3NjBkOGI3YzExZCJ9fX0=
+    slot: 14
+    display_name: '&x&e&8&e&8&5&0Rütbeler'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Bütün rütbeleri görebilir'
+    - '&x&f&3&f&3&a&0ve rütbe atlayabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] rütbe'
+    right_click_commands:
+    - '[player] rütbe'
+  vipbilgi:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM5Y2NhY2QwY2Q0OGY4ZTRkNWI3OTc0Y2Q0OThkODQ4MzkwMWJlMGNjOTViOTc5MjM4NDcyOTk1M2U1YWFlZSJ9fX0=
+    slot: 15
+    display_name: '&x&e&8&e&8&5&0VIP Bilgi'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuzda bulunan VIP üyelikler'
+    - '&x&f&3&f&3&a&0hakkında bilgi alabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] rütbevip'
+    right_click_commands:
+    - '[openguimenu] rütbevip'
+  kurallar:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZhZTYzYTkxZmU0OTJlOTE1OTE4ODk3OTczNmI1N2JmNTg1MDk1ODVhNGQwODk5MmE5NzZmOThjODhlY2VmMSJ9fX0=
+    slot: 16
+    display_name: '&x&e&8&e&8&5&0Kurallar'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucuda uyulması gereken'
+    - '&x&f&3&f&3&a&0kuralları görebilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] kurallar'
+    right_click_commands:
+    - '[openguimenu] kurallar'
+  market:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2ODUyMTAxZDM0YTI3ZTZlODAzNGVhZjY5NWIwY2E0MmVjZGNlNjhkMWI2N2I4OGNjYjI1Mjg1MGRhYTNjNSJ9fX0=
+    slot: 21
+    display_name: '&x&e&8&e&8&5&0Marketler'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sanal marketi görebilir'
+    - '&x&f&3&f&3&a&0ve çeşitli eşyalar alıp'
+    - '&x&f&3&f&3&a&0satabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] market'
+    right_click_commands:
+    - '[openguimenu] market'
+  etkinliktakvimi:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ3YzgxZjlkMzU2ZDIzOTAzMTA0YWFiYzE4NjkzZTI0MjEzMDU2YWE1ZTJhNmY1ODJjOTU4MDcxZWU5NTU4OCJ9fX0=
+    slot: 22
+    display_name: '&x&e&8&e&8&5&0Etkinlik Takvimi'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Muhteşem etkinliklerimiz'
+    - '&x&f&3&f&3&a&0hakkında bilgi sahibi olabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] etkinlik'
+    right_click_commands:
+    - '[player] etkinlik'
+  isci:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWEyODYzMjU4ZGEwM2E0MDYyY2IwN2ZhMDIxZWEwM2RiOGJlNDI3OGM1NjJiMGEyYmY4Yjg5YjhiMDA1ZDUxNSJ9fX0=
+    slot: 23
+    display_name: '&x&e&8&e&8&5&0Günlük Ödüller'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Düzenli olarak günlük ödüllerinizi'
+    - '&x&f&3&f&3&a&0alarak çeşitli ödüllere sahip olabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] reward'
+    right_click_commands:
+    - '[player] reward'
+  isccci:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFjODg1M2JmMmMwZjRhYTc4ZGM2ZDBjY2Q1ZTZjNWU5NzY3MGJjNmYyNWQ5MzZjMWZjMmE0NGVkNjQzOTczYiJ9fX0=
+    slot: 24
+    display_name: '&x&e&8&e&8&5&0Satış Menüsü'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Satmak istediğiniz eşyaları'
+    - '&x&f&3&f&3&a&0bu menüye koyarak satabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] satis'
+    right_click_commands:
+    - '[player] satis'
+  oyunfghfghcumarket:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU5NTEwMzUwODE5Y2E0Yjg0NzQ0YTgwOTNhZmI2NGNjNmExMjZiNmNhYTM4ZGY4MTgxNDJmNDdmOGZiNjRlMyJ9fX0=
+    slot: 25
+    display_name: '&x&e&8&e&8&5&0YouTuber Şartları'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0YouTuber rütbesini elde etmek'
+    - '&x&f&3&f&3&a&0için hangi şartlara uymanız'
+    - '&x&f&3&f&3&a&0gerektiğini görebilirsiniz!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] ytsart'
+    right_click_commands:
+    - '[openguimenu] ytsart'
+  gomt:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM0YmJiYWMyNDkwM2E3ZjMxODk5NDk4ZTE4NDU2YzJhYTg3NTI5ZWExNDBmMWM2NmEyMmZkZGY4YWM2ZWZmNiJ9fX0=
+    slot: 30
+    display_name: '&x&e&8&e&8&5&0Komutlar'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Kullanabileceğiniz tüm'
+    - '&x&f&3&f&3&a&0komutları görebilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] komutlar'
+    right_click_commands:
+    - '[openguimenu] komutlar'
+  Banka:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEzYmFlN2M5YzU0YzkwOTM2NmU1ZTMyOTQyMDU1MDcxNDAxYmQyZWJkM2Y0MDg2MmMwYWQ0OTI0MTFjMjhlYyJ9fX0=
+    slot: 31
+    display_name: '&x&e&8&e&8&5&0Banka'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Paralarınızı ve tecrübe puanınızı'
+    - '&x&f&3&f&3&a&0saklayabilir, istediğiniz'
+    - '&x&f&3&f&3&a&0zaman kullanabilirsiniz.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] banka'
+    right_click_commands:
+    - '[player] banka'
+  oyuncumarket:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU5NTEwMzUwODE5Y2E0Yjg0NzQ0YTgwOTNhZmI2NGNjNmExMjZiNmNhYTM4ZGY4MTgxNDJmNDdmOGZiNjRlMyJ9fX0=
+    slot: 32
+    display_name: '&x&e&8&e&8&5&0Son Sözler'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Öldüğünde çıkacak olan'
+    - '&x&f&3&f&3&a&0birbirinden farklı son sözleri'
+    - '&x&f&3&f&3&a&0buradan satın alabilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Açmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] sonsöz'
+    right_click_commands:
+    - '[player] sonsöz'

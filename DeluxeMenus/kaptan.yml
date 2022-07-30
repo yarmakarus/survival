@@ -1,0 +1,26 @@
+menu_title: '&#b90000Menü &#ff00ff⇴ &#ff0099Kaptan'
+open_command:
+- kaptan
+inventory_type: DISPENSER
+items:
+  12:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ3OWI2ZDc3MjVmYTM0MzViYTUwYTdmMTYwZjIzY2ViNGJjYTExMTUyOGI3Zjk1ODNjMjhmN2U4MmQyIn19fQ==
+    slot: 4
+    display_name: '              &x&e&8&e&8&5&0Kaptan Jarveus'
+    lore:
+    - ''
+    - '   &x&4&b&4&b&4&9⇴ &x&f&3&f&3&a&0Şu anda &x&e&8&e&8&5&0%server_online_world% kişi &x&f&3&f&3&a&0maceraya atıldı! &x&4&b&4&b&4&9⬰'
+    - ''
+    - '          &x&4&b&4&b&4&9⇴ &x&f&3&f&3&a&0Işınlanmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0! &x&4&b&4&b&4&9⬰'
+    left_click_commands:
+    - '[close]'
+    - '[player] rtp'
+    right_click_commands:
+    - '[close]'
+    - '[player] rtp'
+  'engel1':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 0-3
+    - 5-8

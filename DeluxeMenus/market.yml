@@ -1,0 +1,125 @@
+menu_title: '&#b90000Menü &#ff00ff⇴ &#ff0099Marketler'
+open_command: market
+size: 45
+items:
+  sunucuhk:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg4M2Q2NTZlNDljMzhjNmI1Mzc4NTcyZjMxYzYzYzRjN2E1ZGQ0Mzc1YjZlY2JjYTQzZjU5NzFjMmNjNGZmIn19fQ==
+    slot: 0
+    display_name: '&x&e&8&e&8&5&0Sunucu Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz zorluk seviyesi olarak'
+    - '&x&e&8&e&8&5&0orta &x&f&3&f&3&a&0olarak hazırlanmıştır.'
+    - '&x&f&3&f&3&a&0Sistemlerimiz hakkında bilgiler'
+    - '&x&f&3&f&3&a&0menülerde detaylı olarak anlatılmıştır.'
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz uzun vadeli, sizlerin emeklerinin'
+    - '&x&f&3&f&3&a&0çöpe atılmadığı ve adaletli bir sunucudur. Sunucumuza'
+    - '&x&f&3&f&3&a&0destek olmak ve aynı zamanda bu desteğinize'
+    - '&x&f&3&f&3&a&0karşılık olarak &x&e&8&e&8&5&0VIP&x&f&3&f&3&a&0, &x&e&8&e&8&5&0anahtar&x&f&3&f&3&a&0, &x&e&8&e&8&5&0doğurucu &x&f&3&f&3&a&0tarzında ürünler'
+    - '&x&f&3&f&3&a&0almak için sitemizi ziyaret edebilirsin.'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0www.reverse-network.com &8(&x&e&8&e&8&5&0/site&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] site'
+    right_click_commands:
+    - '[close]'
+    - '[player] site'
+  discord:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3M2MxMmJmZmI1MjUxYTBiODhkNWFlNzVjNzI0N2NiMzlhNzVmZjFhODFjYmU0YzhhMzliMzExZGRlZGEifX19
+    slot: 18
+    display_name: '&x&e&8&e&8&5&0Discord Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Discord sunucumuza katılarak güncellemelerden ve'
+    - '&x&f&3&f&3&a&0duyurulardan &x&e&8&e&8&5&0ilk sen haberdar olabilir&x&f&3&f&3&a&0, arkadaş'
+    - '&x&f&3&f&3&a&0edinip &x&e&8&e&8&5&0eğlenebilir&x&f&3&f&3&a&0, sohbet ederek &x&e&8&e&8&5&0ödül &x&f&3&f&3&a&0kazanabilir,'
+    - '&x&f&3&f&3&a&0hatta çekilişlerden &x&e&8&e&8&5&0VIP &x&f&3&f&3&a&0ve fazlasını kazanabilirsin!'
+    - ''
+    - '&x&f&3&f&3&a&0Aynı zamanda Discord sunucumuz ile oyun hesabını da'
+    - '&x&f&3&f&3&a&0Eşleyerek &x&e&8&e&8&5&0özel rol &x&f&3&f&3&a&0ve &x&e&8&e&8&5&0özel eşyalar &x&f&3&f&3&a&0kazanabilirsin!'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0www.reverse-network.com &8(&x&e&8&e&8&5&0/discord&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] discord'
+    right_click_commands:
+    - '[close]'
+    - '[player] discord'
+  profil:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxYWUwNWM5MjY3MTI2MWJhZjgyOThjZThkYmJlYjVhMWYxZThkNzFhOTc2N2UyNTFmYmM2NTVhMTFlYWMifX19
+    slot: 36
+    display_name: '&x&e&8&e&8&5&0Profil'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Hakkındaki tüm bilgileri ve'
+    - '&x&f&3&f&3&a&0istatistiklerinizi görebilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] profil'
+    right_click_commands:
+    - '[player] profil'
+  geri:
+    material: ARROW
+    slot: 44
+    display_name: '&x&e&8&e&8&5&0Geri Dön'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Genel menüye dönebilirsin.'
+    - ''
+    - "&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!"
+    left_click_commands:
+    - '[openguimenu] menü'
+    right_click_commands:
+    - '[openguimenu] menü'
+  'engel1':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 1
+    - 10
+    - 19
+    - 28
+    - 37
+  '1':
+    display_name: '&x&e&8&e&8&5&0Sunucu Marketi'
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA4OWQ2ZWNmMDMzMDU0N2ZjN2ZjYjE5ZDcxMTQzMTVlMTU1NzFiZmUyMzE3Yjk2ZjY0MGNkMjhiMzQ1ODU5MSJ9fX0=
+    slot: 13
+    left_click_commands:
+    - '[player] shop'
+    right_click_commands:
+    - '[player] shop'
+  '2':
+    display_name: '&x&e&8&e&8&5&0Tüccar'
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ5Yzg5ODgyYTc4MTA4MWI4ZDQxZDY0ZTA5YzdkOGIxOGRkNWE5ZTEwMWE5ODFkYmI0NjIxZWE1YjViZDBmMSJ9fX0=
+    slot: 15
+    left_click_commands:
+    - '[player] tuccar'
+    right_click_commands:
+    - '[player] tuccar'
+  '23245':
+    display_name: '&x&e&8&e&8&5&0Claim Bloğu'
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWM1YTk3MGE0MDYzM2Y0YjU2ODcxYmIzYzIzN2E5MzViYzYxNGNmZTY3YWUyYWY0MjZlOTg2M2UwODc0NzhkZiJ9fX0=
+    slot: 23
+    left_click_commands:
+    - '[openguimenu] claim'
+    right_click_commands:
+    - '[openguimenu] claim'
+  '23':
+    display_name: '&x&e&8&e&8&5&0Uçuş Marketi'
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGY5OWEyNzlhNDlhODM5ZjM3NzMwZjIzYjYwNTRhMDlhYmU5NzE5MjhlYmQ4ODZkZjcxYWFhOGQ0MzQzNjVmOCJ9fX0=
+    slot: 31
+    left_click_commands:
+    - '[player] tf shop'
+    right_click_commands:
+    - '[player] tf shop'
+  '4':
+    display_name: '&x&e&8&e&8&5&0Çiftçi Marketi'
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA5YWUxNGFlZjE4NzcwYjRkMzY3NjA2N2Y2MjlmY2MzZDI3YjNiZTg2OWQ1Njk4ZTJkMTc2N2RjMjZlYWZkZCJ9fX0=
+    slot: 33
+    left_click_commands:
+    - '[player] çiftçi al'
+    right_click_commands:
+    - '[player] çiftçi al'

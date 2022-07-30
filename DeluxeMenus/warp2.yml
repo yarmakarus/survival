@@ -1,0 +1,165 @@
+menu_title: '&#b90000Menü &#ff00ff⇴ &#ff0099Işınlanma'
+open_command: 
+- warp
+- ışınlanma
+- isinlanma
+- ışınlayıcı
+- isinlayici
+size: 45
+items:
+  sunucuhk:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg4M2Q2NTZlNDljMzhjNmI1Mzc4NTcyZjMxYzYzYzRjN2E1ZGQ0Mzc1YjZlY2JjYTQzZjU5NzFjMmNjNGZmIn19fQ==
+    slot: 0
+    display_name: '&x&e&8&e&8&5&0Sunucu Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz zorluk seviyesi olarak'
+    - '&x&e&8&e&8&5&0orta &x&f&3&f&3&a&0olarak hazırlanmıştır.'
+    - '&x&f&3&f&3&a&0Sistemlerimiz hakkında bilgiler'
+    - '&x&f&3&f&3&a&0menülerde detaylı olarak anlatılmıştır.'
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz uzun vadeli, sizlerin emeklerinin'
+    - '&x&f&3&f&3&a&0çöpe atılmadığı ve adaletli bir sunucudur. Sunucumuza'
+    - '&x&f&3&f&3&a&0destek olmak ve aynı zamanda bu desteğinize'
+    - '&x&f&3&f&3&a&0karşılık olarak &x&e&8&e&8&5&0VIP&x&f&3&f&3&a&0, &x&e&8&e&8&5&0anahtar&x&f&3&f&3&a&0, &x&e&8&e&8&5&0doğurucu &x&f&3&f&3&a&0tarzında ürünler'
+    - '&x&f&3&f&3&a&0almak için sitemizi ziyaret edebilirsin.'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0www.reverse-network.com &8(&x&e&8&e&8&5&0/site&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] site'
+    right_click_commands:
+    - '[close]'
+    - '[player] site'
+  discord:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3M2MxMmJmZmI1MjUxYTBiODhkNWFlNzVjNzI0N2NiMzlhNzVmZjFhODFjYmU0YzhhMzliMzExZGRlZGEifX19
+    slot: 18
+    display_name: '&x&e&8&e&8&5&0Discord Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Discord sunucumuza katılarak güncellemelerden ve'
+    - '&x&f&3&f&3&a&0duyurulardan &x&e&8&e&8&5&0ilk sen haberdar olabilir&x&f&3&f&3&a&0, arkadaş'
+    - '&x&f&3&f&3&a&0edinip &x&e&8&e&8&5&0eğlenebilir&x&f&3&f&3&a&0, sohbet ederek &x&e&8&e&8&5&0ödül &x&f&3&f&3&a&0kazanabilir,'
+    - '&x&f&3&f&3&a&0hatta çekilişlerden &x&e&8&e&8&5&0VIP &x&f&3&f&3&a&0ve fazlasını kazanabilirsin!'
+    - ''
+    - '&x&f&3&f&3&a&0Aynı zamanda Discord sunucumuz ile oyun hesabını da'
+    - '&x&f&3&f&3&a&0Eşleyerek &x&e&8&e&8&5&0özel rol &x&f&3&f&3&a&0ve &x&e&8&e&8&5&0özel eşyalar &x&f&3&f&3&a&0kazanabilirsin!'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0discord.gg/sxGybJHPWx &8(&x&e&8&e&8&5&0/discord&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] discord'
+    right_click_commands:
+    - '[close]'
+    - '[player] discord'
+  profil:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxYWUwNWM5MjY3MTI2MWJhZjgyOThjZThkYmJlYjVhMWYxZThkNzFhOTc2N2UyNTFmYmM2NTVhMTFlYWMifX19
+    slot: 36
+    display_name: '&x&e&8&e&8&5&0Profil'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Hakkındaki tüm bilgileri ve'
+    - '&x&f&3&f&3&a&0istatistiklerinizi görebilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] profil'
+    right_click_commands:
+    - '[player] profil'
+  geri:
+    material: ARROW
+    slot: 44
+    display_name: '&x&e&8&e&8&5&0Geri Dön'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Genel menüye dönebilirsin.'
+    - ''
+    - "&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!"
+    left_click_commands:
+    - '[openguimenu] menü'
+    right_click_commands:
+    - '[openguimenu] menü'
+  'engel1':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 1
+    - 10
+    - 19
+    - 28
+    - 37
+  '2':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQyOGJkODE4MWVmMmUwMzQ4NjE4MmFlNWNlZjk2NTEwMzMyNDYzM2IyYTM4MDQ3MWM1YzJlMzQzMGI5M2IwNCJ9fX0=
+    slot: 13
+    display_name: '&x&e&8&e&8&5&0Kasalar'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Elinde anahtarlar'
+    - '&x&f&3&f&3&a&0varsa tıkla ve hemen'
+    - '&x&f&3&f&3&a&0kasaların kilidini aç.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Işınlanmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] warp kasa'
+    right_click_commands:
+    - '[player] warp kasa'
+  '8':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkxNGEyMDM5N2VjZTlkNDNlZDI1M2M5ZWZjYjM1ZmQ1ZjViMDUzOTM3MGI1ZGNmYjNkN2IyMjY5MTliNGI4ZiJ9fX0=
+    slot: 15
+    display_name: '&x&e&8&e&8&5&0Başlangıç'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Birçok şeyin bulunduğu'
+    - '&x&f&3&f&3&a&0başlangıç noktası.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Işınlanmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] spawn'
+    right_click_commands:
+    - '[player] spawn'
+  '11':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTM4ZDk1ODBhZGEyMDZjZmI3NGExMGIxZWE2Y2RlZmU2ZDk0NDY0MDA4MTk0Nzc2MDZiNGQzNjU4MjczY2FkNyJ9fX0=
+    slot: 30
+    update: true
+    display_name: '&x&e&8&e&8&5&0Kaptan'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Kaptan Veldorya ile'
+    - '&x&f&3&f&3&a&0uçsuz bucaksız yerlere'
+    - '&x&f&3&f&3&a&0ışınlanabilirsin.'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] kaptan'
+    right_click_commands:
+    - '[player] kaptan'
+  '13':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjdhYWYyZWU2NGJkYjIxMTAxNGM3ZWNjNzAwNmZhYTIzNDQ4ZDc4ZjRiYjkwMmU4YTEzMjVlMWM5ZDdmMTFlIn19fQ==
+    slot: 32
+    update: true
+    display_name: '&x&e&8&e&8&5&0İhale'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sıra sıra dizilmiş ihaleleri'
+    - '&x&f&3&f&3&a&0görebilir ve teklif sunabilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Işınlanmak için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] warp ihale'
+    right_click_commands:
+    - '[player] warp ihale'
+  '14':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJmNGQwMzI5NWI1YTlhZDk5MDYxNTM4ZGIwMzIyMDMxNWJkODhlZjkxNzhiODI2YzhjNjI4ZWVkOTg0ZWRmZCJ9fX0=
+    slot: 34
+    update: true
+    display_name: '&x&e&8&e&8&5&0Market'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Buradan sunucu, tüccar, uçuş'
+    - '&x&f&3&f&3&a&0ve çiftçi marketine ulaşabilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[openguimenu] market'
+    right_click_commands:
+    - '[openguimenu] market'

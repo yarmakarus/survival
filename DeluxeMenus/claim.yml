@@ -1,0 +1,186 @@
+menu_title: '&#b90000Menü &#ff00ff⇴ &#ff0099Claim Satın Alma'
+open_command:
+- claimmarket
+size: 45
+items:
+  sunucuhk:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg4M2Q2NTZlNDljMzhjNmI1Mzc4NTcyZjMxYzYzYzRjN2E1ZGQ0Mzc1YjZlY2JjYTQzZjU5NzFjMmNjNGZmIn19fQ==
+    slot: 0
+    display_name: '&x&e&8&e&8&5&0Sunucu Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz zorluk seviyesi olarak'
+    - '&x&e&8&e&8&5&0orta &x&f&3&f&3&a&0olarak hazırlanmıştır.'
+    - '&x&f&3&f&3&a&0Sistemlerimiz hakkında bilgiler'
+    - '&x&f&3&f&3&a&0menülerde detaylı olarak anlatılmıştır.'
+    - ''
+    - '&x&f&3&f&3&a&0Sunucumuz uzun vadeli, sizlerin emeklerinin'
+    - '&x&f&3&f&3&a&0çöpe atılmadığı ve adaletli bir sunucudur. Sunucumuza'
+    - '&x&f&3&f&3&a&0destek olmak ve aynı zamanda bu desteğinize'
+    - '&x&f&3&f&3&a&0karşılık olarak &x&e&8&e&8&5&0VIP&x&f&3&f&3&a&0, &x&e&8&e&8&5&0anahtar&x&f&3&f&3&a&0, &x&e&8&e&8&5&0doğurucu &x&f&3&f&3&a&0tarzında ürünler'
+    - '&x&f&3&f&3&a&0almak için sitemizi ziyaret edebilirsin.'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0www.reverse-network.com &8(&x&e&8&e&8&5&0/site&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] site'
+    right_click_commands:
+    - '[close]'
+    - '[player] site'
+  discord:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg3M2MxMmJmZmI1MjUxYTBiODhkNWFlNzVjNzI0N2NiMzlhNzVmZjFhODFjYmU0YzhhMzliMzExZGRlZGEifX19
+    slot: 18
+    display_name: '&x&e&8&e&8&5&0Discord Hakkında'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Discord sunucumuza katılarak güncellemelerden ve'
+    - '&x&f&3&f&3&a&0duyurulardan &x&e&8&e&8&5&0ilk sen haberdar olabilir&x&f&3&f&3&a&0, arkadaş'
+    - '&x&f&3&f&3&a&0edinip &x&e&8&e&8&5&0eğlenebilir&x&f&3&f&3&a&0, sohbet ederek &x&e&8&e&8&5&0ödül &x&f&3&f&3&a&0kazanabilir,'
+    - '&x&f&3&f&3&a&0hatta çekilişlerden &x&e&8&e&8&5&0VIP &x&f&3&f&3&a&0ve fazlasını kazanabilirsin!'
+    - ''
+    - '&x&f&3&f&3&a&0Aynı zamanda Discord sunucumuz ile oyun hesabını da'
+    - '&x&f&3&f&3&a&0Eşleyerek &x&e&8&e&8&5&0özel rol &x&f&3&f&3&a&0ve &x&e&8&e&8&5&0özel eşyalar &x&f&3&f&3&a&0kazanabilirsin!'
+    - ''
+    - '&8⇴ &x&e&8&e&8&5&0discord.gg/sxGybJHPWx &8(&x&e&8&e&8&5&0/discord&8)'
+    left_click_commands:
+    - '[close]'
+    - '[player] discord'
+    right_click_commands:
+    - '[close]'
+    - '[player] discord'
+  profil:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxYWUwNWM5MjY3MTI2MWJhZjgyOThjZThkYmJlYjVhMWYxZThkNzFhOTc2N2UyNTFmYmM2NTVhMTFlYWMifX19
+    slot: 36
+    display_name: '&x&e&8&e&8&5&0Profil'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Hakkındaki tüm bilgileri ve'
+    - '&x&f&3&f&3&a&0istatistiklerinizi görebilirsin!'
+    - ''
+    - '&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!'
+    left_click_commands:
+    - '[player] profil'
+    right_click_commands:
+    - '[player] profil'
+  geri:
+    material: ARROW
+    slot: 44
+    display_name: '&x&e&8&e&8&5&0Geri Dön'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Genel menüye dönebilirsin.'
+    - ''
+    - "&8⇴ &x&f&3&f&3&a&0Gitmek için &x&e&8&e&8&5&0&ntıkla&x&f&3&f&3&a&0!"
+    left_click_commands:
+    - '[openguimenu] menü'
+    right_click_commands:
+    - '[openguimenu] menü'
+  'engel1':
+    material: BLACK_STAINED_GLASS_PANE
+    data: 15
+    slots:
+    - 1
+    - 10
+    - 19
+    - 28
+    - 37
+  '1':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRlNWI0MDdiNjNjOTMxZWJkZjZiYjdjOTQ2NmUwNzQwNDdmZjUyOGNjYTYzZTNmMTQ4ODk3ZWM2ZjljZGQyIn19fQ==
+    slot: 21
+    display_name: '&x&e&8&e&8&5&0100 Claim Bloğu'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Fiyat &8⇴ &x&e&8&e&8&5&04.000 &x&f&3&f&3&a&0Oyun Parası'
+    left_click_commands:
+    - '[console] eco take %player_name% 4000'
+    - '[console] acb %player_name% 100'
+    - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&e&8&e&8&5&0100 Claim Bloğu &x&f&3&f&3&a&0satın aldın.'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Item:
+          type: has money
+          amount: 4000 
+      deny_commands:
+      - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&f&3&f&3&a&0Satın almak için yeterli oyun parasına sahip değilsin.'
+      - '[close]'
+  '2':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU0ZTRjZGQ1NGJiNzVlZWE0YWFlNTdmN2RmOTI4YjcwNGE4MWNjN2JlMmEwY2Y4NDQ5NjZiOTIwZmM3ZmFiZCJ9fX0=
+    slot: 22
+    display_name: '&x&e&8&e&8&5&0250 Claim Bloğu'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Fiyat &8⇴ &x&e&8&e&8&5&010.000 &x&f&3&f&3&a&0Oyun Parası'
+    left_click_commands:
+    - '[console] eco take %player_name% 10000'
+    - '[console] acb %player_name% 250'
+    - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&e&8&e&8&5&0250 Claim Bloğu &x&f&3&f&3&a&0satın aldın.'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Item:
+          type: has money
+          amount: 10000 
+      deny_commands:
+      - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&f&3&f&3&a&0Satın almak için yeterli oyun parasına sahip değilsin.'
+      - '[close]'
+  '3':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ4NzM5YzY4ODIzZDAyMzViOTI2MjUzMDJhNjYzYzAyYTA0ZmI0MjJmNTBhNDNkNmUzZjA4M2E3ZTRkMWExOCJ9fX0=
+    slot: 23
+    display_name: '&x&e&8&e&8&5&0400 Claim Bloğu'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Fiyat &8⇴ &x&e&8&e&8&5&016.000 &x&f&3&f&3&a&0Oyun Parası'
+    left_click_commands:
+    - '[console] eco take %player_name% 16000'
+    - '[console] acb %player_name% 400'
+    - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&e&8&e&8&5&0400 Claim Bloğu &x&f&3&f&3&a&0satın aldın.'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Item:
+          type: has money
+          amount: 16000 
+      deny_commands:
+      - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&f&3&f&3&a&0Satın almak için yeterli oyun parasına sahip değilsin.'
+      - '[close]'
+  '4':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM0YzQ0NGYzOWMwZjk4NDI1YjU2ODZjOTJlYmU2NDYwNTJhOTE3Yjc3MGFhOGU3NzE5MWFmOWUwOTExOWYxMCJ9fX0=
+    slot: 24
+    display_name: '&x&e&8&e&8&5&0800 Claim Bloğu'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Fiyat &8⇴ &x&e&8&e&8&5&032.000 &x&f&3&f&3&a&0Oyun Parası'
+    left_click_commands:
+    - '[console] eco take %player_name% 32000'
+    - '[console] acb %player_name% 800'
+    - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&e&8&e&8&5&0800 Claim Bloğu &x&f&3&f&3&a&0satın aldın.'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Item:
+          type: has money
+          amount: 32000 
+      deny_commands:
+      - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&f&3&f&3&a&0Satın almak için yeterli oyun parasına sahip değilsin.'
+      - '[close]'
+  '5':
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU0ZTRjZGQ1NGJiNzVlZWE0YWFlNTdmN2RmOTI4YjcwNGE4MWNjN2JlMmEwY2Y4NDQ5NjZiOTIwZmM3ZmFiZCJ9fX0=
+    slot: 25
+    display_name: '&x&e&8&e&8&5&01.000 Claim Bloğu'
+    lore:
+    - ''
+    - '&x&f&3&f&3&a&0Fiyat &8⇴ &x&e&8&e&8&5&040.000 &x&f&3&f&3&a&0Oyun Parası'
+    left_click_commands:
+    - '[console] eco take %player_name% 40000'
+    - '[console] acb %player_name% 1000'
+    - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&e&8&e&8&5&01.000 Claim Bloğu &x&f&3&f&3&a&0satın aldın.'
+    - '[close]'
+    left_click_requirement:
+      requirements:
+        Item:
+          type: has money
+          amount: 40000 
+      deny_commands:
+      - '[message] &x&d&c&d&c&0&0&lV&x&e&1&e&1&2&2&lE&x&e&6&e&6&4&5&lL&x&e&b&e&b&6&7&lD&x&f&0&f&0&8&9&lO&x&f&5&f&5&a&b&lR&x&f&a&f&a&c&e&lY&x&f&f&f&f&f&0&lA &8⇴ &x&f&3&f&3&a&0Satın almak için yeterli oyun parasına sahip değilsin.'
+      - '[close]'
