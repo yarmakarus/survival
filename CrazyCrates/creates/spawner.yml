@@ -1,0 +1,146 @@
+Crate:
+  CrateType: CSGO #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateName: '&x&e&8&e&8&5&0Spawner Kasası' #Name of the Inventory if a GUI crate.
+  StartingKeys: 0 #Starting amount of keys when the player 1st joins.
+  InGUI: true #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  Slot: 21 #Slot the item is in the GUI.
+  OpeningBroadCast: false #Enables/Disables the Broadcasts message when they open a crate.
+  BroadCast: '' #Message that is broadcasted when opening the crate.
+  Item: 'CHEST' #Item the crate is in the GUI
+  Glowing: false #If the crate in the main /cc GUI is glowing or not.
+  Name: '&x&b&9&0&0&0&0Menü &x&f&f&0&0&f&f⇴ &x&f&f&0&0&9&9Spawner Kasası' #Name of the item in the GUI.
+  Lore: #The lore of the item in the GUI. 
+    - '&x&f&3&f&3&a&0This crate contains strange objects.' 
+    - '&x&f&3&f&3&a&0You have &6%Keys% keys &x&f&3&f&3&a&0to open this crate with.'
+    - '&x&f&3&f&3&a&0&l(&x&e&8&e&8&5&0&l!&x&f&3&f&3&a&0&l) Right click to view rewards.'
+  PhysicalKey:
+    Name: '&x&4&b&4&b&4&9⇴ &x&e&8&e&8&5&0Spawner &x&f&3&f&3&a&0Kasası Anahtarı &8◀'
+    Lore:
+      - ''
+      - '&x&f&3&f&3&a&0Bu anahtarı &x&e&8&e&8&5&0/warp kasa&x&f&3&f&3&a&0''da kullanabilirsin!'
+    Item: 'FEATHER'
+    Glowing: false #Makes the key look enchanted.
+#         For Cosmic Crates Only
+#############################################
+#  Tiers: #The tiers in the Crate
+#    Basic: #The Config Name for the Crate
+#      Name: '&8Basic Prize' #The in-game name of the Crate
+#      Color: 7 #Use the MetaData for the color of the glass
+#      Chance: 80 #Chance of that item getting picked. It would be 80/100 chance because MaxRange is 100.
+#      MaxRange: 100 #The max range that the chance will go though.
+#    UnCommon:
+#      Name: '&aUnCommon Prize'
+#      Color: 5
+#      Chance: 75
+#      MaxRange: 100
+#    Rare:
+#      Name: '&4Rare Prize'
+#      Color: 14
+#      Chance: 7
+#      MaxRange: 100
+#############################################
+  Prizes:
+    1:
+      DisplayName: '&x&e&8&e&8&5&0Zombi Doğurucu'
+      DisplayItem: 'SPAWNER' 
+      DisplayAmount: 1 
+      MaxRange: 100
+      Chance: 75
+      Firework: false
+      Glowing: false 
+      Player: ''
+      Unbreakable: false
+      Commands:
+       - 'ms give %Player% zombie 1'
+      BlackListed-Permissions: {}
+    2:
+      DisplayName: '&x&e&8&e&8&5&0İskelet Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 75
+      Firework: false
+      Glowing: false
+      Player: ''
+      Commands:
+       - 'ms give %Player% skeleton 1'        
+      Unbreakable: false
+      BlackListed-Permissions: {}
+    3:
+      DisplayName: '&x&e&8&e&8&5&0Örümcek Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 75
+      Firework: false
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'ms give %Player% spider 1'            
+      Unbreakable: false
+      BlackListed-Permissions: {}      
+    4:
+      DisplayName: '&x&e&8&e&8&5&0Mağara Örümceği Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 75
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'ms give %Player% cave_spider 1'
+      BlackListed-Permissions: {}
+    5:
+      DisplayName: '&x&e&8&e&8&5&0Zombi Domuzadam Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 1
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'ms give %Player% zombified_piglin 1'
+      BlackListed-Permissions: {}
+    7:
+      DisplayName: '&x&e&8&e&8&5&0Koyun Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 0
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'ms give %Player% sheep 1'
+      BlackListed-Permissions: {}  
+    8:
+      DisplayName: '&x&e&8&e&8&5&0Blaze Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'ms give %Player% blaze 1'
+      BlackListed-Permissions: {}  
+    9:
+      DisplayName: '&x&e&8&e&8&5&0İnek Doğurucu'
+      DisplayItem: 'SPAWNER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 0
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'ms give %Player% cow 1'
+      BlackListed-Permissions: {}   

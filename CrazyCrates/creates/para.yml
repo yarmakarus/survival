@@ -1,0 +1,159 @@
+Crate:
+  CrateType: CSGO #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateName: '&x&e&8&e&8&5&0Para Kasası' #Name of the Inventory if a GUI crate.
+  StartingKeys: 0 #Starting amount of keys when the player 1st joins.
+  InGUI: true #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  Slot: 21 #Slot the item is in the GUI.
+  OpeningBroadCast: false #Enables/Disables the Broadcasts message when they open a crate.
+  BroadCast: '' #Message that is broadcasted when opening the crate.
+  Item: 'CHEST' #Item the crate is in the GUI
+  Glowing: false #If the crate in the main /cc GUI is glowing or not.
+  Name: '&x&b&9&0&0&0&0Menü &x&f&f&0&0&f&f⇴ &x&f&f&0&0&9&9Para Kasası' #Name of the item in the GUI.
+  Lore: #The lore of the item in the GUI.
+    - '&x&f&3&f&3&a&0This crate contains strange objects.' 
+    - '&x&f&3&f&3&a&0You have &6%Keys% keys &x&f&3&f&3&a&0to open this crate with.'
+    - '&x&f&3&f&3&a&0&l(&x&e&8&e&8&5&0&l!&x&f&3&f&3&a&0&l) Right click to view rewards.'
+  PhysicalKey:
+    Name: '&x&4&b&4&b&4&9⇴ &x&e&8&e&8&5&0Para &x&f&3&f&3&a&0Kasası Anahtarı &8◀'
+    Lore:
+      - ''
+      - '&x&f&3&f&3&a&0Bu anahtarı &x&e&8&e&8&5&0/warp kasa&x&f&3&f&3&a&0''da kullanabilirsin!'
+    Item: 'FEATHER'
+    Glowing: false #Makes the key look enchanted.
+#         For Cosmic Crates Only
+#############################################
+#  Tiers: #The tiers in the Crate
+#    Basic: #The Config Name for the Crate
+#      Name: '&8Basic Prize' #The in-game name of the Crate
+#      Color: 7 #Use the MetaData for the color of the glass
+#      Chance: 80 #Chance of that item getting picked. It would be 80/100 chance because MaxRange is 100.
+#      MaxRange: 100 #The max raccccccccccnge that the chance will go though.
+#    UnCommon:
+#      Name: '&aUnCommon Prize'
+#      Color: 5
+#      Chance: 105
+#      MaxRange: 100
+#    Rare:
+#      Name: '&4Rare Prize'
+#      Color: 14
+#      Chance: 10
+#      MaxRange: 100
+#############################################
+  Prizes:
+    1:
+      DisplayName: '&x&e&8&e&8&5&01.000 Oyun Parası'
+      DisplayItem: 'PAPER' 
+      DisplayAmount: 1 
+      MaxRange: 100
+      Chance: 60
+      Firework: false
+      Glowing: false 
+      Player: ''
+      Unbreakable: false
+      Commands:
+       - 'eco give %Player% 1000'
+      BlackListed-Permissions: {}
+    2:
+      DisplayName: '&x&e&8&e&8&5&02.500 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Firework: false
+      Glowing: false
+      Player: ''
+      Commands:
+       - 'eco give %Player% 2500'        
+      Unbreakable: false
+      BlackListed-Permissions: {}
+    3:
+      DisplayName: '&x&e&8&e&8&5&05.000 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 20
+      Firework: false
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'eco give %Player% 5000'            
+      Unbreakable: false
+      BlackListed-Permissions: {}      
+    4:
+      DisplayName: '&x&e&8&e&8&5&07.500 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 15
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 7500'
+      BlackListed-Permissions: {}
+    5:
+      DisplayName: '&x&e&8&e&8&5&010.000 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 10000'
+      BlackListed-Permissions: {}
+    6:
+      DisplayName: '&x&e&8&e&8&5&012.500 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 5
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 12500'
+      BlackListed-Permissions: {}
+    7:
+      DisplayName: '&x&e&8&e&8&5&015.000 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 15000'
+      BlackListed-Permissions: {}
+    8:
+      DisplayName: '&x&e&8&e&8&5&017.500 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 2
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 17500'
+      BlackListed-Permissions: {}
+    8a:
+      DisplayName: '&x&e&8&e&8&5&020.000 Oyun Parası'
+      DisplayItem: 'PAPER'
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 1
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      Commands:
+        - 'eco give %Player% 20000'
+      BlackListed-Permissions: {}      
